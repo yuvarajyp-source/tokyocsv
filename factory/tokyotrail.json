@@ -1,0 +1,9 @@
+{
+	"name": "tokyotrail",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1edfa825-b317-405e-8553-cbf07b5cb3f9",
+		"tenantId": "fafa65bf-292c-4e2f-98cb-cd1e63223962"
+	}
+}
