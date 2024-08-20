@@ -1,0 +1,12 @@
+{
+	"name": "athletes",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/yuvarajyp-source/tokyocsv/main/Athletes%20(1).csvv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
